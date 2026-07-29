@@ -1,2 +1,2 @@
 # tryhackme-notes-
-Documenting everything I've learnt on tryhackme
+Documenting everything I've learned on tryhackme

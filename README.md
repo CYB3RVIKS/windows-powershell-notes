@@ -1,5 +1,4 @@
 # Windows Command Line and PowerShell Notes
-# Windows Command Line & PowerShell Notes
 
 A collection of my learning notes while studying **Windows Command Line (CMD)** and **PowerShell** through **TryHackMe**.
 
@@ -50,8 +49,8 @@ This repository documents the commands, concepts, and practical exercises I comp
 
 ```text
 Windows-Command-Line.md
-Understanding PowerShell Objects.md
-Working With Where-Object.md
+Understanding-PowerShell-Objects.md
+Working-With-Where-Object.md
 ```
 
 More learning notes will be added as I continue progressing through TryHackMe.

@@ -48,7 +48,7 @@ This repository documents the commands, concepts, and practical exercises I comp
 ## Repository Structure
 
 ```text
-[Windows-Command-Line](notes/windows command line.md)
+[Windows-Command-Line](notes/windows-command-line.md)
 Understanding-PowerShell-Objects.md
 Working-With-Where-Object.md
 ```

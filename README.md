@@ -47,12 +47,10 @@ This repository documents the commands, concepts, and practical exercises I comp
 
 ## Repository Structure
 
-```text
-[Windows Command Line](notes/windows-command-line.md)
-[Understanding PowerShell Objects](notes/understanding-powershell-objects.md)
-[Working With Where-Object](notes/working-with-where-object.md)
-```
-
+- [Windows Command Line](notes/windows-command-line.md)
+- [Understanding PowerShell Objects](notes/understanding-powershell-objects.md)
+- [Working With Where-Object](notes/working-with-where-object.md)
+  
 More learning notes will be added as I continue progressing through TryHackMe.
 
 ## Why I'm Building This Repository

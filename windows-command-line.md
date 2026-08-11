@@ -289,9 +289,3 @@ copy notes.txt Backup
 - File discovery and navigation are important skills for digital forensics and incident response.
 
 ---
-
-## Room Completed
-
-- **Platform:** TryHackMe
-- **Topic:** Windows Command Line
-- **Status:** ✅ Completed

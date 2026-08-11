@@ -1,6 +1,8 @@
 ## Overview
 
-Today I learned the fundamentals of **Windows PowerShell**, a cross-platform task automation solution consisting of:
+[Windows Powershell](https://tryhackme.com/room/windowspowershell)
+
+Today I learnt the fundamentals of **Windows PowerShell**, a cross-platform task automation solution consisting of:
 
 * A command-line shell
 * A scripting language

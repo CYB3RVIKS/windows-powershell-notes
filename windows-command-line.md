@@ -3,7 +3,7 @@
 [Windows Command Line (CMD)](https://tryhackme.com/room/windowscommandline)
 
 
-Today, I learned the fundamentals of the **Windows Command Line (CMD)** using TryHackMe.
+Today, I learnt the fundamentals of the **Windows Command Line (CMD)** using TryHackMe.
 
 The Windows Command Line (`cmd.exe`) is a command-line interpreter that allows users to interact with the Windows operating system by typing commands instead of using a graphical interface (GUI).
 
